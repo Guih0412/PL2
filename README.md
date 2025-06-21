@@ -1,6 +1,6 @@
 # Sistema de Gerenciamento Pet Lovers
 
-Sistema intuitivo para gerenciar clientes, pets, produtos e serviços do pet shop Pet Lovers, facilitando controle e organização completa.
+Sistema intuitivo baseado em **componentes de classe** para gerenciar clientes, pets, produtos e serviços do pet shop Pet Lovers, facilitando controle e organização completa.
 
 > ⚠️ Projeto simulado no frontend, sem backend real.
 
