@@ -1,27 +1,29 @@
-# Sistema de Gerenciamento da Pet Lovers
+# Sistema de Gerenciamento Pet Lovers
 
-Este é um sistema de gerenciamento simples feito com **React** e **Bootstrap**, que permite simular o cadastro, listagem, edição e exclusão de clientes, pets, produtos e serviços do pet shop Pet Lovers.
+Sistema intuitivo para gerenciar clientes, pets, produtos e serviços do pet shop Pet Lovers, facilitando controle e organização completa.
 
-⚠️ Este projeto é apenas uma simulação no frontend, sem integração com backend.
+> ⚠️ Projeto simulado no frontend, sem backend real.
 
-## 💻 Tecnologias utilizadas
+---
 
-- React
-- Bootstrap
-- JavaScript (ou TypeScript, se for o caso)
-- HTML / CSS
+## 💻 Tecnologias Utilizadas
+
+- React  
+- Bootstrap  
+- JavaScript (ou TypeScript)  
+- HTML e CSS  
+
+---
 
 ## 🚀 Funcionalidades
 
-- Cadastro de clientes (com nome e CPF)
-- Cadastro de pets (associados a um cliente)
-- Cadastro de produtos (com nome, preço e estoque)
-- Cadastro de serviços (com nome e preço)
-- Leitura de dados dos componentes
-- Edição e exclusão de qualquer item
-- Interface com flashcards, modais e formulários em etapas
+- Gerenciamento completo de clientes, pets, produtos e serviços, por meio de cadastro, edição, exclusão e listagem
+- Relatórios detalhados de consumo de produtos e serviços por cliente, tipo e raça de animal, incluindo rankeamento por quantidade e valor.
+- Interface interativa com flashcards, modais e formulários em etapas  
+  
+---  
 
-## 🧪 Como testar
+## 🧪 Como executar
 
 1. Clone o repositório:
    ```bash
@@ -37,5 +39,5 @@ Este é um sistema de gerenciamento simples feito com **React** e **Bootstrap**,
 
 4. Abra no navegador
   ```bash
-  http://localhost:3000
+   http://localhost:3000
   

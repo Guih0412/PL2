@@ -8,7 +8,7 @@ type props = {
     seletorView: (view: string) => void
 }
 
-export default class BarraNavegacao extends Component<props> {
+export default class Header extends Component<props> {
     constructor(props: props | Readonly<props>) {
         super(props)
         this.gerarListaBotoes = this.gerarListaBotoes.bind(this)
@@ -80,7 +80,7 @@ export default class BarraNavegacao extends Component<props> {
                                         <button className="nav-link btn btn-link" onClick={() => this.props.seletorView(valor)}
                                             style={{
                                                 color: 'white',
-                                                backgroundColor: "rgb(69,32,23)", border: '1px solid rgb(70, 23, 3)', borderRadius: '5px',
+                                                backgroundColor: "rgb(72, 40, 33)", border: '1px solid rgb(70, 23, 3)', borderRadius: '5px',
                                                 padding: '0.375rem 0.75rem',
                                                 marginRight: "10px"
                                             }} onMouseEnter={(e) => e.currentTarget.style.backgroundColor = "rgb(46, 16, 8)"}
