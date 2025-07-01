@@ -27,7 +27,7 @@ Sistema intuitivo baseado em **componentes de classe** para gerenciar clientes, 
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/Guih0412/ATVII-PL.git
+   https://github.com/Guih0412/T2.git
 
 2. Instale as dependências:
    ```bash
